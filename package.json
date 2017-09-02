@@ -1,0 +1,16 @@
+{
+  "name": "myAwesomeTestBot",
+  "version": "0.1.0",
+  "description": "Awesome Telegram Bot Example - Google Cloud Functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.28.0",
+    "rss-parser": "^2.10.4"
+  }
+}
